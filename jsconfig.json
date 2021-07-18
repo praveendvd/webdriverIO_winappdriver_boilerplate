@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "types": [
+            "node",
+            "webdriverio/async",
+            "expect-webdriverio",
+            "@wdio/cucumber-framework"
+        ]
+    }
+}
