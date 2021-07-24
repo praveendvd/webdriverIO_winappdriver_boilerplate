@@ -1,4 +1,4 @@
-const fs = require('fs')
+
 Given("Adding {int} and {int}", async function (first,second) {
     await (await $(`//*[@AutomationId=\"num${first}Button\"]`)).click()
     await (await $("//*[@AutomationId=\"plusButton\"]")).click()
