@@ -35,6 +35,6 @@ Just run:
 
 ## Contact Maintainer
 
-**Email**: praveendvd@live.com
-**Linkedin**: https://www.linkedin.com/in/praveendvd/
-**Website**:  https://praveendvd.wixsite.com/greenhorn
+- **Email**: praveendvd@live.com
+- **Linkedin**: https://www.linkedin.com/in/praveendvd/
+- **Website**:  https://praveendvd.wixsite.com/greenhorn
